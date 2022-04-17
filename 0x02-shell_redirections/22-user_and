@@ -1,0 +1,4 @@
+ #! /user/bin/bash
+
+
+cut -d";" --fields=1

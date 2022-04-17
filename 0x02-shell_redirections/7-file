@@ -1,0 +1,3 @@
+#! /usr/bin/bash
+
+echo "best school " | cat >'\*\\'\''"
